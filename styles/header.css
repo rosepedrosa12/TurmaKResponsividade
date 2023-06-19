@@ -1,8 +1,9 @@
 .cabecalho__menu {
-    background-image: url("../img/Menu.svg");
-}
-
-
-:root {
-    view-transition-name: root;
-}
+    display: inline-block;
+     background-image:url("../img/Menu.svg");
+     background-repeat: no-repeat;
+     background-position: center;
+     width: 24px;
+     height: 24px;
+ }
+ 
