@@ -40,3 +40,8 @@ top: 100%;
 .container__botao{
     display: none;
 }
+
+.lista-menu__titulo{
+    font-weight: 700;
+
+}  
