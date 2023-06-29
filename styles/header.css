@@ -32,6 +32,7 @@ display: none;
 background-color: var(--branco);
 position: absolute;
 top: 100%;
+width: 60vw;
 }
 
 .container__botao:checked~.lista__menu{
