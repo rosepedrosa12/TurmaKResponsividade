@@ -41,8 +41,14 @@ width: 60vw;
 }
 
 .lista__menu-link{
-    color: var(roxo);
-}
+    color: var(--roxo);
+   
+   
+   }
+   .lista__menu-titulo{
+       color: var(--amarelo);
+       font-weight: 700;
+   }
 
 .container__botao:checked~.lista__menu{
     display: block;
