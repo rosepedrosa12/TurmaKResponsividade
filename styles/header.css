@@ -64,7 +64,7 @@ width: 60vw;
 
 }  
 
-.container__titulo {
+.container___titulo {
     display:none;
 }
 
@@ -75,3 +75,8 @@ width: 60vw;
     }  
     
 }
+
+.cabecalho__menu {
+    display: none;
+}
+    
