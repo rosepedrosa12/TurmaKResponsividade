@@ -80,3 +80,8 @@ width: 60vw;
     display: none;
 }
     
+
+.container__favorito {
+    display: none;
+
+}
