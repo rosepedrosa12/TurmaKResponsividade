@@ -69,16 +69,21 @@ width: 60vw;
 }
 @media screen and (min-width:1024px) {
 
-    .container__titulo{
+    .conteiner__titulo{
         display: block;
+        font-family: var(--fonte-secundaria);
+        font-weight: 400;
+        font-size: 30px;
     } 
     
+    .conteiner__titulo--negrito{
+        font-weight: 700;
+    }
     .cabecalho__menu{
         display: none;
     }
 
-    .container__favorito{
+    .conteiner__favorito{
         display: none;
     }
-    
-}
+
