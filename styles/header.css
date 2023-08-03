@@ -63,3 +63,7 @@ width: 60vw;
     font-weight: 700;
 
 }  
+
+.container__titulo {
+    display:none;
+}
