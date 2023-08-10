@@ -39,6 +39,8 @@ width: 60vw;
 }
 .lista__menu-link{
  color: var(--roxo);
+ text-transform: uppercase;
+ text-decoration: none;
 
 
 }
