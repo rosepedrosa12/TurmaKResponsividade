@@ -92,5 +92,8 @@ width: 60vw;
         text-decoration: none;
         color:var(--preto);
     }
-    
+    .opcoes__botao:checked~.lista__menu{
+        display: block;
+        width: auto;
+    }
 }
