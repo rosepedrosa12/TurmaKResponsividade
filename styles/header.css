@@ -109,19 +109,21 @@ width: 60vw;
 
 }
 
-@media screen and (win-whidt:1728px) {
-    .conteiner__link {
-    display: flex;
-    align-items: center;
-    text-decoration: none;
-    color: var(--preto);
-}
-    .conteiner__texto {
-        display: block;
+@media screen and (min-width:1728px) {
+    .conteiner__link{
+        display: flex;
+        align-items: center;
+        text-decoration: none;
+        color: var(--preto);
+    }
+    .conteiner__texto{
+        display:block;
     }
 
     .opcoes{
         margin-right: auto;
     }
-    
+   .cabecalho{
+    padding: 0 2em;
+   } 
 }
