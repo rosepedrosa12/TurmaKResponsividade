@@ -110,7 +110,9 @@ width: 60vw;
 }
 
 @media screen and (win-whidt:1728px) {
-
+    .conteiner__link {
+    display: flex;
+}
     .conteiner__texto {
         display: block;
     }
