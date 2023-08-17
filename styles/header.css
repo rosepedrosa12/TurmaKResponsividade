@@ -63,11 +63,9 @@ width: 60vw;
     display:none;
 }
 
-.conteiner__texto {
-
-    display: none;
+.conteiner__texto{
+    display:none;
 }
-
 @media screen and (min-width:1024px) {
 
     .conteiner__titulo{
@@ -107,6 +105,9 @@ width: 60vw;
         display: none;
     }
 
+    .conteiner__texto{
+        display:none;
+    }
 }
 
 @media screen and (min-width:1728px) {
