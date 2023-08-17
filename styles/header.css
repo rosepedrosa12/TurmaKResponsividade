@@ -119,5 +119,9 @@ width: 60vw;
     .conteiner__texto {
         display: block;
     }
+
+    .opcoes{
+        margin-right: auto;
+    }
     
 }
